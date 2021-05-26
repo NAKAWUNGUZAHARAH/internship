@@ -1,0 +1,115 @@
+/*body {*/
+/*    background-color: mintcream;*/
+/*}*/
+
+.sugar {
+    margin: 0;
+    padding: 0;
+    height: 80vh;
+    background-color: white !important;
+}
+
+.zach {
+    height: 100%;
+    width: 100%;
+    clip-path: ellipse(70% 100% at 50% 0);
+    filter: brightness(.6);
+}
+
+.objectlist li {
+    list-style-image: url(../img/images/icon-small.png) !important;
+
+}
+
+/* .img{
+    border-radius: 70% !important;
+} */
+h1, h2, h3, h4, h5, h6 {
+    font-size: 40px!important;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    font-weight: 300;
+    font-style: italic !important;
+   /* line-height: 120px;*/
+}
+
+.button {
+    background-color: chocolate;
+    position: absolute;
+    width: 10Px;
+    height: 10px;
+}
+
+#nav {
+    width: 100vw;
+    margin-left: -15px;
+    margin-bottom: 100px;
+}
+
+.phone {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.single_slide {
+
+    height: 90vh;
+}
+
+/*.myslides {
+     height: 200vh;
+     border: 10px;*/
+ 
+.welcome_slide_text{
+    position:absolute;
+    float: right;
+    right:10%;
+    margin-top:30%;
+    color: black!important ;
+}
+
+.myimg{
+    position:absolute;
+}
+.footer-logo{
+    width: 100px;
+}
+.section{
+    background-color: white !important; 
+}
+.many{
+  background-color: white !important;   
+}
+.myform{
+    box-sizing: border-box !important;
+    box-shadow: -10px 10px  20px 10px gray;
+    position: relative;
+    margin-left: 30%;
+    margin-bottom: 1%;
+     margin-left:20%; 
+    top: 10%;
+}
+.background-overlay{
+     background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+@media all and (max-width: 992px) {
+    #karl-navbar {
+        background-color: green !important;
+    }
+}
+.data-table{
+    border: gray;
+    border-color: black;
+}
+.object{
+    
+    box-sizing: border-box !important;
+    box-shadow: -10px 10px  20px 10px gray;
+    position: relative;
+    margin-left: 30%;
+    margin-bottom: 1%;
+     margin-left:20%; 
+    top: 10%;
+}
